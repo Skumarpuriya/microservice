@@ -4,9 +4,9 @@ spring:
   application:
     name: userservice
   datasource:
-    url: jdbc:postgresql://dpg-cuhn2jrtq21c73bclu10-a.oregon-postgres.render.com:5432/ppspr
-    username: ppspr_user
-    password: Ksvghyw9KJTJGP44qfJAc7IVSOWpETQX
+    url: jdbc:postgresql://dpg-cuphc7rtq21c739ru14g-a.oregon-postgres.render.com:5432/server
+    username: server_16iw_user
+    password: xcPUEYx4Ld6It0PWWTrg4t4MBbO5Xy8O
     driver-class-name: org.postgresql.Driver
   jpa:
     show-sql: true
